@@ -18,19 +18,20 @@ int main()
         {
             if (s >= p)
             {
-                cout<<"R"<<endl;
+                cout<<"R";
             }
             else if(r >= s)
             {
-                cout<<"P"<<endl;
+                cout<<"P";
             }
             else
             {
-                cout<<"S"<<endl;
+                cout<<"S";
             }
 
 
         }
+        cout<<"\n";
 
     }
 
