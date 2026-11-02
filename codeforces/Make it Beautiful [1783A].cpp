@@ -1,4 +1,4 @@
-//Make it Beautiful
+//sdfjsdfsdfsdMake it Beautiful
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -37,11 +37,7 @@ int main()
 
         cout<<"\n";
 
-
-
     }
 
     return 0;
-
-
 }
